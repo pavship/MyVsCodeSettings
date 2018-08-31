@@ -1,0 +1,31 @@
+{
+    "telemetry.enableTelemetry": true,
+    // "editor.quickSuggestions": {
+    //     "other": true,
+    //     "comments": false,
+    //     "strings": false
+    // },
+    "explorer.confirmDelete": false,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    "editor.formatOnSave": false,
+    "editor.parameterHints": false,
+    "editor.snippetSuggestions": "top",
+    "editor.detectIndentation": false,
+    "editor.autoIndent": true,
+    "editor.tabSize": 4,
+    "editor.wrappingIndent": "indent",
+    "editor.renderIndentGuides": true,
+    "editor.highlightActiveIndentGuide": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0,
+    "editor.largeFileOptimizations": false,
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.quickSuggestions": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "editor.tabCompletion": true,
+    "editor.mouseWheelScrollSensitivity": 3
+}
