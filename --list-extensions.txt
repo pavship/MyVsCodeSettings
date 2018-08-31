@@ -1,0 +1,5 @@
+eriklynd.json-tools
+jpoissonnier.vscode-styled-components
+jumpinjackie.vscode-map-preview
+kumar-harsh.graphql-for-vscode
+wix.vscode-import-cost
