@@ -12,9 +12,8 @@
     "editor.formatOnSave": false,
     "editor.parameterHints": false,
     "editor.snippetSuggestions": "top",
-    "editor.detectIndentation": false,
     "editor.autoIndent": true,
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "editor.wrappingIndent": "indent",
     "editor.renderIndentGuides": true,
     "editor.highlightActiveIndentGuide": true,
@@ -27,5 +26,6 @@
     "editor.quickSuggestions": true,
     "javascript.implicitProjectConfig.checkJs": true,
     "editor.tabCompletion": true,
-    "editor.mouseWheelScrollSensitivity": 3
+    "editor.mouseWheelScrollSensitivity": 3,
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }

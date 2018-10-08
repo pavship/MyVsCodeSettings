@@ -12,5 +12,9 @@
 	"Set state": {
 		"prefix": "ss",
 		"body": "this.setState({ $CLIPBOARD })"
-	}
+	},
+	"Import styled": {
+		"prefix": "ims",
+		"body": "import styled from 'styled-components'"
+	},
 }
