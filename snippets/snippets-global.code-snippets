@@ -24,6 +24,9 @@
 		"prefix": "lv",
 		"body": "console.log('$CLIPBOARD > ', $CLIPBOARD)$1",
 		"description": "Log output to console with CLIPBOARD var"
-	}
-    
+	},
+	"Import lodash": {
+		"prefix": "iml",
+		"body": "import _ from 'lodash'"
+	},
 }
