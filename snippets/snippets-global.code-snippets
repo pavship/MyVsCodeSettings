@@ -19,7 +19,11 @@
 		// "scope": "javascript,typescript",
 		"prefix": "j",
 		"body": "JSON.stringify($1, null, 2)"
-    },
+	},
+	"JSON.stringify with <pre>": {
+		"prefix": "jp",
+		"body": "<pre>{JSON.stringify($1, null, 2)}</pre>"
+	},
 	"Print to console with CLIPBOARD var": {
 		"prefix": "lv",
 		"body": "console.log('$CLIPBOARD > ', $CLIPBOARD)$1",

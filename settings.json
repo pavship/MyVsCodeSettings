@@ -27,5 +27,6 @@
     "javascript.implicitProjectConfig.checkJs": true,
     "editor.tabCompletion": true,
     "editor.mouseWheelScrollSensitivity": 3,
-    "javascript.updateImportsOnFileMove.enabled": "always"
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false
 }
