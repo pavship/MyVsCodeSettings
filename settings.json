@@ -10,7 +10,7 @@
         "*.js": "javascriptreact"
     },
     "editor.formatOnSave": false,
-    "editor.parameterHints": false,
+    "editor.parameterHints.enabled": false,
     "editor.snippetSuggestions": "top",
     "editor.autoIndent": true,
     "editor.tabSize": 2,
@@ -25,9 +25,10 @@
     "workbench.colorTheme": "Visual Studio Light",
     "editor.quickSuggestions": true,
     "javascript.implicitProjectConfig.checkJs": true,
-    "editor.tabCompletion": true,
+    "editor.tabCompletion": "on",
     "editor.mouseWheelScrollSensitivity": 3,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "explorer.confirmDragAndDrop": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "typescript.tsdk": "C:/Users/Asus/AppData/Local/Yarn/Data/global/node_modules/typescript/lib"
 }
