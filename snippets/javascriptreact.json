@@ -13,6 +13,11 @@
 		"prefix": "ss",
 		"body": "this.setState({ $CLIPBOARD })"
 	},
+	"Use state": {
+		"prefix": "us",
+		// "body": "const [ ${CLIPBOARD:val}, set${CLIPBOARD/(?<=...)(\w)/${1:/upcase}/} ] = useState('')"
+		"body": "const [ ${CLIPBOARD:val}, set${CLIPBOARD/(.{1})/${1:/upcase}/} ] = useState($1)"
+	},
 	"Import styled": {
 		"prefix": "ims",
 		"body": "import styled from 'styled-components'"
